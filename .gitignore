@@ -1,0 +1,13 @@
+.DS_Store
+.venv
+.venv/*
+*.parquet
+data/*.parquet
+lbn-data
+lbn-data/**/*.parquet
+*.pkl
+data/*.pkl
+__pycache__
+__pycache__/*
+demo.parquet
+lbn.parquet
